@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "include": ["*.ts"], //wildcard use to compile any files that end with .ts
+  "exclude": ["node_modules"]
+}
